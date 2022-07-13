@@ -1,3 +1,4 @@
-#Demonstration of git
+
+# Demonstration of git
 
 First commit
